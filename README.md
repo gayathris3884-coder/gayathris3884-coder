@@ -109,20 +109,6 @@ Working on real-world data science problems and AI-driven solutions
 Performing EDA, data preprocessing, and model building
 
 </details>
-<details>
-<summary><b>🏢 Stride, Vellore — Data Science Intern</b></summary>
-
-
-
-Python Pandas EDA Data Preparation
-
-
-
-
-Focused on data preparation and exploratory data analysis
-Cleaned and processed datasets for downstream ML models
-
-</details>
 
 
 🚀 Featured Projects
