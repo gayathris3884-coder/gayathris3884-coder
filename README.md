@@ -115,6 +115,37 @@ class Gayathri:
 
 ---
 
+## 💼 Internship Experience
+
+<div align="center">
+
+| | Role | Company | Duration | Mode |
+|:---:|:-----|:--------|:---------|:-----|
+| 🤖 | **AI & Data Science Intern** | [**XYlofy AI**](https://www.xylofyai.com) — Bengaluru, Karnataka | June 2026 · 4 Weeks | 🌐 Remote |
+
+</div>
+
+> Working on real-world AI projects with mentor-led sessions, hands-on project delivery, and industry-relevant technologies. Offered by Pritam Gupta, Founder & CEO, XYlofy AI.
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Year |
+|:--------------|:---------|:-------|
+| ✈️ **British Airways Data Science Job Simulation** | Forage | 2025–26 |
+| 🔷 **Deloitte Data Analytics Virtual Internship** | Forage | 2025–26 |
+| 🤖 **Generative AI Unleashing** | Infosys Springboard | 2025–26 |
+| 🗄️ **SQL for Data Analysis** | HackerRank | 2025–26 |
+| 📘 **NPTEL Course** | NPTEL (IIT/NIT) | 2025–26 |
+| 💬 **Prompt Engineering** | Infosys Springboard | May 2026 |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
