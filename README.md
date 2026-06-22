@@ -159,10 +159,19 @@ class Gayathri:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayathris3884-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+| 🎯 Milestone | 📊 Detail |
+|:------------|:---------|
+| 🐄 AI Model Deployed | PashuPehchan — 72% accuracy on 9 Indian cattle & buffalo breeds |
+| 🤖 Internship | AI & Data Science Intern @ XYlofy AI, Bengaluru (June 2026) |
+| 🎓 Certifications | 6 industry certifications (Forage · Infosys Springboard · HackerRank · NPTEL) |
+| 💻 Projects | 6 public AI & Data Science projects on GitHub |
+| 🏫 Education | Integrated M.Tech CSE (Data Science) @ VIT Vellore · CGPA 7.51 |
+| 🌐 Simulations | British Airways & Deloitte Virtual Experience Programs (Forage) |
+
 </div>
 
 ---
